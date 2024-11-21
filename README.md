@@ -5,9 +5,7 @@
 Java 17<br>
 Spring Boot<br>
 Spring MVC<br>
-Spring Data JPA<br>
 MySQL<br>
-ThymeLeaf<br>
 
 The Login UserName and Password <br>
   <strong>userName:</strong>admin<br>
